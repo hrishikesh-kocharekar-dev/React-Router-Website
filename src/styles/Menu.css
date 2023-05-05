@@ -37,7 +37,8 @@
   color: darkolivegreen;
   /* font-family: "Aleo", serif; */
   font-family: 'Montserrat', sans-serif;
-  font-size: 14px
+  font-size: 14px;
+  padding: 0 20px;
 }
 
 .menuItem div {
